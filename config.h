@@ -1,12 +1,12 @@
 static const Block blocks[] = {
 	/*Command*/	/*Update Interval (seconds)*/	/*Update Signal*/
-	{"cat /tmp/recordingicon 2>/dev/null",	0,	9},
+	/* {"cat /tmp/recordingicon 2>/dev/null",	0,	9}, */
 	{"pacpackages",	0,	8},
 	{"volume",	0,	10},
 	{"battery",	5,	3},
 	{"internet",	5,	4},
 	{"clock",	60,	1},
-        {"music",	0,	10},
+        /* {"music",	0,	10}, */
 	/* {"crypto",	0,	13}, */
 	/* {"torrent",	20,	7}, */
 	/* {"news",	0,	6}, */
