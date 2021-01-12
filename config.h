@@ -8,12 +8,10 @@ static const Block blocks[] = {
 	{"clock",	60,	1},
         /* {"music",	0,	10}, */
 	/* {"torrent",	20,	7}, */
-	/* {"news",	0,	6}, */
 	/* {"memory",	10,	14}, */
 	/* {"cpu",		10,	13}, */
 	/* {"weather",	18000,	5}, */
 	/* {"mailbox",	180,	12}, */
-	/* {"help-icon",	0,	15}, */
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
