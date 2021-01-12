@@ -7,12 +7,10 @@ static const Block blocks[] = {
 	{"internet",	5,	4},
 	{"clock",	60,	1},
         /* {"music",	0,	10}, */
-	/* {"crypto",	0,	13}, */
 	/* {"torrent",	20,	7}, */
 	/* {"news",	0,	6}, */
 	/* {"memory",	10,	14}, */
 	/* {"cpu",		10,	13}, */
-	/* {"moonphase",	18000,	5}, */
 	/* {"weather",	18000,	5}, */
 	/* {"mailbox",	180,	12}, */
 	/* {"help-icon",	0,	15}, */
